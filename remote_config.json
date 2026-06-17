@@ -1,0 +1,18 @@
+{
+  "stable": {
+    "updateId": 0,
+    "version": "1.0.0",
+    "forceUpdate": false,
+    "message": "",
+    "apk": ""
+  },
+  "test": {
+    "updateId": 0,
+    "version": "1.0.0-beta",
+    "forceUpdate": false,
+    "message": "",
+    "apk": ""
+  },
+  "announcement": null,
+  "sources": {}
+}
