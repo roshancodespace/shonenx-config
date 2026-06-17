@@ -2,7 +2,7 @@
   "stable": {
     "updateId": 0,
     "version": "1.0.0",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "message": "",
     "apk": ""
   },
@@ -13,6 +13,14 @@
     "message": "",
     "apk": ""
   },
-  "announcement": null,
-  "sources": {}
+  "announcement": {
+    "id": "1",
+    "message": "Hello This is a Test "
+  },
+  "sources": {
+    "animepahe": {
+      "disabled": true,
+      "message": "Disabled by admin"
+    }
+  }
 }
