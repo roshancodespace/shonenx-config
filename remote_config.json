@@ -1,10 +1,10 @@
 {
   "stable": {
-    "updateId": 0,
-    "version": "1.0.0",
+    "updateId": 1,
+    "version": "2.0.0",
     "forceUpdate": true,
-    "message": "",
-    "apk": ""
+    "message": "UPDATE IT!",
+    "apk": "https://tmpfiles.org/wowBHdCMs0r5/app-arm64-v8a-release.apk"
   },
   "test": {
     "updateId": 0,
