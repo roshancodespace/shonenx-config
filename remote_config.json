@@ -1,22 +1,28 @@
 {
-  "stable": {
-    "updateId": 1,
-    "version": "2.0.0",
-    "forceUpdate": true,
-    "message": "UPDATE IT!",
-    "apk": "https://tmpfiles.org/wowBHdCMs0r5/app-arm64-v8a-release.apk"
+  "downloadsEnabled": false,
+  
+  "announcements": {
+    "app": [
+      {
+        "id": 1,
+        "enabled": true,
+        "title": "Test Announcement",
+        "message": "This will be shown inside the app.",
+        "type": "info"
+      }
+    ],
+
+    "website": [
+      {
+        "id": 1,
+        "enabled": true,
+        "title": "ShonenX Rewrite in Progress",
+        "message": "ShonenX is currently undergoing a complete rewrite and the current version is no longer maintained. Most of the work has already been completed, and the new release will be available in a few days. Downloads are temporarily disabled until the new version is released.",
+        "type": "warning"
+      }
+    ]
   },
-  "test": {
-    "updateId": 0,
-    "version": "1.0.0-beta",
-    "forceUpdate": false,
-    "message": "",
-    "apk": ""
-  },
-  "announcement": {
-    "id": "1",
-    "message": "Test Announcement!"
-  },
+
   "sources": {
     "animepahe": {
       "disabled": true,
