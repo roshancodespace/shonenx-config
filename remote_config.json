@@ -1,17 +1,17 @@
 {
   "downloadsEnabled": true,
-
+  "applicationEnabled": false,
+  "minimumVersion": "",
   "announcements": {
     "app": [
       {
-        "id": 1,
+        "id": 2,
         "enabled": true,
         "title": "Test Announcement",
         "message": "This will be shown inside the app.",
         "type": "info"
       }
     ],
-
     "website": [
       {
         "id": 1,
@@ -22,7 +22,6 @@
       }
     ]
   },
-
   "sources": {
     "animepahe": {
       "disabled": true,
