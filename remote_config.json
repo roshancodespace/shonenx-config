@@ -1,14 +1,14 @@
 {
   "downloadsEnabled": true,
-  "applicationEnabled": false,
+  "applicationEnabled": true,
   "minimumVersion": "",
   "announcements": {
     "app": [
       {
         "id": 2,
         "enabled": true,
-        "title": "Test Announcement",
-        "message": "This will be shown inside the app.",
+        "title": "The Goat is OUT! (Testing Announcements Sorry)",
+        "message": "Have a nice day peeps!",
         "type": "info"
       }
     ],
