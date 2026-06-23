@@ -1,6 +1,6 @@
 {
-  "downloadsEnabled": false,
-  
+  "downloadsEnabled": true,
+
   "announcements": {
     "app": [
       {
@@ -16,8 +16,8 @@
       {
         "id": 1,
         "enabled": true,
-        "title": "ShonenX Rewrite in Progress",
-        "message": "ShonenX is currently undergoing a complete rewrite and the current version is no longer maintained. Most of the work has already been completed, and the new release will be available in a few days. Downloads are temporarily disabled until the new version is released.",
+        "title": "ShonenX RE is OUT!",
+        "message": "There maybe bugs in the RE, but overall you can use the app watch shit normally or read manga, Manga feature is very new so deal with bugs for now.",
         "type": "warning"
       }
     ]
