@@ -1,11 +1,11 @@
 {
   "downloadsEnabled": true,
-  "applicationEnabled": false,
+  "applicationEnabled": true,
   "minimumVersion": "",
   "announcements": {
     "app": [
       {
-        "id": 69,
+        "id": 49,
         "enabled": true,
         "title": "I Have Access To Notifications",
         "message": "Just a reminder that Frostnova-sensei continues to carry the collective IQ of this community on his back. Meanwhile, Akimitsu remains committed to discovering bugs that nobody else could find because nobody else would even think to do the things he does. Truly inspirational. Anyway, have a nice day. This announcement was brought to you by poor decision making and unrestricted access to production.",
