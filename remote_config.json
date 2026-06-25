@@ -1,6 +1,6 @@
 {
   "downloadsEnabled": true,
-  "applicationEnabled": true,
+  "applicationEnabled": false,
   "minimumVersion": "",
   "announcements": {
     "app": [
