@@ -5,10 +5,10 @@
   "announcements": {
     "app": [
       {
-        "id": 4,
+        "id": 5,
         "enabled": true,
-        "title": "I Have Access To Notifications",
-        "message": "Just a reminder that Frostnova-sensei continues to carry the collective IQ of this community on his back. Meanwhile, Akimitsu remains committed to discovering bugs that nobody else could find because nobody else would even think to do the things he does. Truly inspirational. Anyway, have a nice day. This announcement was brought to you by poor decision making and unrestricted access to production.",
+        "title": "HELL YEAH!! v2.0.5",
+        "message": "v2.0.5 has arrived.\n\n• Comments now support episode-based filtering, so you can finally read comments for the episode you're watching instead of accidentally discovering the entire plot from someone living twelve episodes in the future.\n\n• Cloudstream support has been added.\n\nPlease update when you get the chance. Also, Akimitsu is an idiot. This statement is unrelated to any feature, bug fix, or technical discussion and exists solely because we believe in transparent communication.\n\nIf anything breaks, remember that software development is just convincing electricity to hallucinate in a structured manner.",
         "type": "info"
       }
     ],
