@@ -5,11 +5,11 @@
   "announcements": {
     "app": [
       {
-        "id": 5,
+        "id": 6,
         "enabled": true,
-        "title": "HELL YEAH!! v2.0.5",
-        "message": "v2.0.5 has arrived.\n\n• Comments now support episode-based filtering, so you can finally read comments for the episode you're watching instead of accidentally discovering the entire plot from someone living twelve episodes in the future.\n\n• Cloudstream support has been added.\n\nPlease update when you get the chance. Also, Akimitsu is an idiot. This statement is unrelated to any feature, bug fix, or technical discussion and exists solely because we believe in transparent communication.\n\nIf anything breaks, remember that software development is just convincing electricity to hallucinate in a structured manner.",
-        "type": "info"
+        "title": "v2.0.6?? SO FAST GOATED RIGHT??",
+        "message": "What's new?\n\n• Added default player preferences (Sub/Dub, Quality, Audio)\n  Because selecting the same settings every episode builds character, but gets annoying after episode 847.\n\n• Added subtitle padding\n  For those who enjoy reading subtitles without them cuddling the edge of the screen.\n\n• Fixed subtitle outline/stroke\n  Subtitles should now be visible instead of playing hide-and-seek with bright scenes.\n\nIf something breaks, it's a bug.\nIf nothing breaks, I'm just as surprised as you are.",
+        "type": "warning"
       }
     ],
     "website": [
