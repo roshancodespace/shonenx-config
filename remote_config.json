@@ -6,7 +6,7 @@
     "app": [
       {
         "id": 6,
-        "enabled": true,
+        "enabled": false,
         "title": "v2.0.6?? SO FAST!, GOATED RIGHT??",
         "message": "What's new?\n\n• Added default player preferences (Sub/Dub, Quality, Audio)\n  Because selecting the same settings every episode builds character, but gets annoying after episode 847.\n\n• Added subtitle padding\n  For those who enjoy reading subtitles without them cuddling the edge of the screen.\n\n• Fixed subtitle outline/stroke\n  Subtitles should now be visible instead of playing hide-and-seek with bright scenes.\n\nIf something breaks, it's a bug.\nIf nothing breaks, I'm just as surprised as you are.",
         "type": "warning"
