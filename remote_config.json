@@ -26,6 +26,10 @@
     "animepahe": {
       "disabled": true,
       "message": "Disabled by admin"
+    },
+    "gojo": {
+      "disabled": true,
+      "message": "Disabled by admin"
     }
   }
 }
