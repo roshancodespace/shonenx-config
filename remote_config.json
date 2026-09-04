@@ -30,6 +30,10 @@
     "gojo": {
       "disabled": true,
       "message": "Disabled by admin"
-    }
+    },
+    "anidb": {
+      "disabled": true,
+      "message": "Disabled by admin"
+    },
   }
 }
